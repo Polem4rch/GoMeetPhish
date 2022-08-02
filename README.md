@@ -63,4 +63,12 @@ Besides the normal phishing detection techniques as checking email domain addres
 Google meet template invitation has a simple solution which allows to spot a fake email, when someone sends a google meet invitation by calendar, the recipient will receive an email and a google calendar notice, since the email is being sent externally, the google meet notice will not appear con the calendar, showing the received invite is false.
 
 
+You can find the HTML Code Here,
+
+[Link](/Code/Gomeetphishing.html)
+
+
+Let me know if anything.
+
+# Polem4rch
 
