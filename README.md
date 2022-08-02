@@ -25,9 +25,9 @@ Gophish supports the ability to import an email from the raw content. To do this
 ![](Images/original.png)
 
 
-# Google Meet Import email Issue on gophish:
+# Google Meet Import email issue on gophish:
 
-When the original is copied and pasted inside the email exporter on gophish, the exported email looks like this
+When the original is copied and pasted inside the email exporter on gophish, the exported email looks like this,
 
 ![](Images/Result.png)
 
