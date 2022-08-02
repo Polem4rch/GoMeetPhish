@@ -33,4 +33,6 @@ When the original is copied and pasted inside the email exporter on gophish, the
 
 We can see the exported email lacks pretty much all the google meet invitation design, for this reason ive created an html template to use on gophish using its own html editor.
 
+![](Images/Meet.png)
+
 
