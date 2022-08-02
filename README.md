@@ -47,6 +47,11 @@ When the original is copied and pasted inside the email exporter on gophish, the
 * Time and Dates
 * Timezones
 
+Check Gophish Documentation on how to set:
+
+* href="{{.URL}}"
+* {{.Tracker}}
+
  
  
 # How to avoid being phished by a google meet template?
