@@ -25,29 +25,35 @@ Gophish supports the ability to import an email from the raw content. To do this
 ![](Images/original.png)
 
 
-Google Meet Import email Issue on gophish:
+# Google Meet Import email Issue on gophish:
 
 When the original is copied and pasted inside the email exporter on gophish, the exported email looks like this
 
 ![](Images/Result.png)
 
 
-We can see the exported email lacks pretty much all the google meet invitation design, for this reason ive created an html template to use on gophish using its own html editor.
+ We can see the exported email lacks pretty much all the google meet invitation design, for this reason ive created an html template to use on gophish using its own html editor.
 
 ![](Images/Meet.png)
 
-As you can see now the current html code includes every aspect of the email invitation sent on google invites.
+ As you can see now the current html code includes every aspect of the email invitation sent on google invites.
 
-A few considerations, always take into account youll need to edit a few aspects of the template to look as real as possible,
+ A few considerations, always take into account youll need to edit a few aspects of the template to look as real as possible,
 
-Language
-Sender
-Time and Dates
-Timezones
 
-How to avoid being phished by a google meet template?
 
-Besides the normal phishing detection techniques as checking email domain address, links domains, attachments.
+* Language
+* Sender
+* Time and Dates
+* Timezones
+
+ 
+ 
+# How to avoid being phished by a google meet template?
+
+Besides the normal phishing detection techniques as checking email domain address, links domains, attachments, theres a Silver Bullet.
+
+# The Silver Bullet:
 
 Google meet template invitation has a simple solution which allows to spot a fake email, when someone sends a google meet invitation by calendar, the recipient will receive an email and a google calendar notice, since the email is being sent externally, the google meet notice will not appear con the calendar, showing the received invite is false.
 
