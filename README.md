@@ -3,7 +3,7 @@ Google Meet Phishing Template For Gophish
 
 
 
-Disclaimer: All information to use for “Ethical Hacking” purpose respectively,  All the information provided on website is for educational purposes only.
+Disclaimer: All information to use for “Ethical Hacking” purpose respectively,  All the information provided here is for educational purposes only.
 
 
 
