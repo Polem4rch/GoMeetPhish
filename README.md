@@ -1,7 +1,9 @@
 # GoMeetPhish
 Google Meet Phishing Template For Gophish
 
+# Why a google meet invite phish template?
 
+When was the last time youve checked for a phishing on a google meet invite? Right...
 
 Disclaimer: All information to use for “Ethical Hacking” purpose respectively,  All the information provided here is for educational purposes only.
 
